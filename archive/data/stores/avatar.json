@@ -1,0 +1,7 @@
+{
+    "name": "avatar",
+    "description": "Displays the avatar of a mentioned user.",
+    "aliases": [],
+    "tip": "Make sure that you mention the user.",
+    "usage": "<@user>"
+}

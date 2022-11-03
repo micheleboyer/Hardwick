@@ -1,0 +1,7 @@
+{
+  "name": "meme",
+  "description": "Choose from Hardwick's curated list of memes and add your own quirky captions!",
+  "aliases": [],
+  "tip": "Type 'meme list' or 'meme list here' to receive a list of Hardwick's memes.",
+  "usage": "<list> OR <name> <caption>"
+}

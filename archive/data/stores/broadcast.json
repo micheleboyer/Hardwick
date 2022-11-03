@@ -1,0 +1,7 @@
+{
+    "name": "broadcast",
+    "description": "Sends a broadcast through in the current Discord channel.",
+    "aliases": [],
+    "tip": "Make that broadcast worthwhile.",
+    "usage": "<message>"
+}

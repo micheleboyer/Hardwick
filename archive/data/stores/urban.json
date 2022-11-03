@@ -1,0 +1,7 @@
+{
+    "name": "urban",
+    "description": "Displays an Urban Dictionary result for a specific word.",
+    "aliases": [],
+    "tip": "Results may be vulgar.",
+    "usage": "<word>"
+}

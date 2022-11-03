@@ -1,0 +1,7 @@
+{
+    "name": "shout",
+    "description": "Hardwick uses Text-to-Speech to say the word/phrase you provide.",
+    "aliases": [],
+    "tip": "Make sure you have Text-to-Speech enabled!",
+    "usage": "<subject>"
+}

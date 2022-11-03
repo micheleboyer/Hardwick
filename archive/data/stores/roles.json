@@ -1,0 +1,7 @@
+{
+    "name": "roles",
+    "description": "Displays a list of roles currently on the server.",
+    "aliases": [],
+    "tip": "Please check out the other moderation commands with +help!",
+    "usage": ""
+}

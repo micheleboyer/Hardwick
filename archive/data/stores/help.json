@@ -1,0 +1,7 @@
+{
+    "name": "help",
+    "description": "Displays information and proper usage of a command.",
+    "aliases": [],
+    "tip": "There's nothing wrong with some help sometimes.",
+    "usage": "OR help <command>"
+}

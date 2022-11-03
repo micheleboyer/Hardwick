@@ -1,0 +1,23 @@
+{
+  "name": "hardwick",
+  "version": "1.0.0",
+  "description": "Hardwick 2022 rewrite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abstractus",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "bufferutil": "^4.0.6",
+    "discord.js": "^14.6.0",
+    "erlpack": "github:discord/erlpack",
+    "superagent": "^8.0.0",
+    "utf-8-validate": "^5.0.9",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}

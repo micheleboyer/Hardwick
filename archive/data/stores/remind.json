@@ -1,0 +1,7 @@
+{
+    "name": "remind",
+    "description": "Set a reminder with a set duration.",
+    "aliases": [],
+    "tip": "Make sure that you format the reminder properly",
+    "usage": "<time> <reminder>"
+}

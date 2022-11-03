@@ -1,0 +1,7 @@
+{
+    "name": "sweep",
+    "description": "Deletes a specified amount of messages up to 99.",
+    "aliases": [],
+    "tip": "There is **NO** going back from message deletion. Please be careful.",
+    "usage": "<1-99>"
+}
